@@ -7,7 +7,8 @@ This is a project to build a chatbot that can answer questions from Khmer & Engl
 
 ## How to run the project
 1. Install the required packages
-2. Run the following command
+2. Change some configuration in file .env
+3. Run the following command
 ```bash
 python main.py
 ```
