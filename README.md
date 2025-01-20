@@ -1,4 +1,4 @@
-# Agentic-Chatbot-with-Khmer-Document
+# Agentic-Chatbot-with-Khmer_Egnlish-Document
 This is a project to build a chatbot that can answer questions from Khmer & English documents. It can use for search document also. To improve the chatbot, you can change embedding model to use multilingual embeddings provided by Vertex AI.
 
 ## Folder Structure
